@@ -1,0 +1,19 @@
+.nav{
+    height: 80px;
+    width: 1180px;
+    background-color: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+.nav a{
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.nav a:hover{
+    color: cyan;
+}
